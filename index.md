@@ -4,7 +4,7 @@
 <p align="center">
 	<img src="./image/cesuo_1.jpeg"  alt="Sample" width="25%" height="25%" > 
 	<p align="center">	
-		<em>客厅</em>
+		<em>厕所</em>
 		 </p>
  </p>
 
