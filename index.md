@@ -1,4 +1,4 @@
-# Ridge Apartment 转租，最高性价比
+# Ridge Apartment 低价转租，最高性价比
 ## 简介
 Ridge Apartment是College Station比较好的小区之一，里面有很多中国人。我们在这里转租3B2B中的2B1B，即 两个卧室 + 一个卫生间。优点是很大，很舒服。
 因为我们要离开Collge Station了，但是因为租约7月份才到期，所以以转租2B1B。目前定的价格是450刀（Ridge Apartment的3B2B的原价是$1,278）, 欢迎来租。
