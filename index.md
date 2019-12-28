@@ -1,1 +1,9 @@
 # Ridge Apartment 转租，最高性价比
+
+
+<p align="center">
+	<img src="./image/cui22.png"  alt="Sample" width="25%" height="25%" > 
+	<p align="center">	
+		<em>客厅</em>
+		 </p>
+ </p>
