@@ -1,10 +1,10 @@
 # Ridge Apartment 转租，最高性价比
 
-
+## 2B1B 中的 “1B” --- 卫生间
 <p align="center">
 	<img src="./image/cesuo_1.jpeg"  alt="Sample" width="25%" height="25%" > 
 	<p align="center">	
-		<em>厕所</em>
+		<em>卫生间</em>
 		 </p>
  </p>
 
