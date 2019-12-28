@@ -8,6 +8,7 @@
 		 </p>
  </p>
 
+## 配套的客厅和厨房
 <p align="center">
 	<img src="./image/keting_1.jpeg"  alt="Sample" width="25%" height="25%" > 
 	<img src="./image/keting_2.jpeg"  alt="Sample" width="25%" height="25%" >
